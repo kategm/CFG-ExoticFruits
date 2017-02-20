@@ -5,36 +5,22 @@
   border: 0px;
 }
 
+.nav {
+    background-color: #008080;
+}
+
 body {font-family:georgia;}
 h1 {font-size:60px; text-align:center; }
 h2 {font-size: 30px; text-align:center;}
 
+
+
+nav {color: #008080;}
+
 #container {width:812px; margin:auto;}
 
-#header{background-color:#008080; color:white; padding-bottom:10px;}
-
-#top_image {background-image: url(dragon.jpg); width:800px; height:150px;}
+#top_image {background-image: url(dragon.jpg); width:1000px; height:3000px;}
 
 #navigation {padding-top:10px; padding-bottom:20px;background-color:#008080;color:white; text-align:center; width:400px; margin:auto; }
 
 #content {padding-top:30px;}
-
-#navigation a {
-    text-decoration: none;
-    display: inline-block;
-    width: 100px;
-    color: white;
-}
-
-#navigation ul li {
-    float: left;
-    list-style-type: none;
-}
-
-.box2 {
-  display: inline-block;
-  width: 200px;
-  height: 250px;
- background-color:lightgrey;
-
-}
