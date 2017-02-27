@@ -13,13 +13,16 @@ body {font-family:georgia;}
 h1 {font-size:60px; text-align:center; }
 h2 {font-size: 30px; text-align:center;}
 
-
-
 nav {color: #008080;}
+
 
 #container {width:812px; margin:auto;}
 
-#top_image {background-image: url(dragon.jpg); width:1000px; height:300px;}
+#top_image {background-image: url(fruits.jpg); width:1000px; height:400px;
+  background-position: center;
+  background-repeat: no-repeat;
+ background-attachment: fixed;
+      }
 
 #navigation {padding-top:10px; padding-bottom:20px;background-color:#008080;color:white; text-align:center; width:400px; margin:auto; }
 
